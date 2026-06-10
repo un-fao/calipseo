@@ -2,7 +2,7 @@
 
 [calipseo-model](https://github.com/un-fao/calipseo-model)|[calipseo-app](https://github.com/un-fao/calipseo-app)|[calipseo-mobile](https://github.com/un-fao/calipseo-mobile)|[calipseo-shiny](https://github.com/un-fao/calipseo-shiny)
 --------------|------------|--------------|--------------
-[`1.7.0`](https://github.com/un-fao/calipseo-model/releases/tag/v1.7.0) (2026-06-08)|>= [`3.0.0`](https://github.com/un-fao/calipseo-app/releases/tag/v3.0.0) (2026-06-08)|-|-
+[`1.7.0`](https://github.com/un-fao/calipseo-model/releases/tag/v1.7.0) (2026-06-08)|>= [`3.0.1`](https://github.com/un-fao/calipseo-app/releases/tag/v3.0.1) (2026-06-10)|-|-
 [`1.6.0`](https://github.com/un-fao/calipseo-model/releases/tag/v1.6.0) (2026-05-21)|>= [`2.5.0`](https://github.com/un-fao/calipseo-app/releases/tag/v2.5.0) (2026-06-02)|[`1.1.0`](https://github.com/un-fao/calipseo-mobile/releases/tag/v1.1.0) (2026-06-04)|`2.3.0` RC
 -|>= [`2.4.1`](https://github.com/un-fao/calipseo-app/releases/tag/v2.4.1) (2026-05-19)|[`1.0.0`](https://github.com/un-fao/calipseo-mobile/releases/tag/v1.0.0) (2026-04-30)|-
 [`1.5.2`](https://github.com/un-fao/calipseo-model/releases/tag/v1.5.1) (2026-03-17)| - |-| >=[`2.2.0`](https://github.com/un-fao/calipseo-shiny/releases/tag/v.2.2.2) (2026-05-01)
